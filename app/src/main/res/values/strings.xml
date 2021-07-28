@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Views</string>
+    <string name="user_name_error_message">Please enter user name</string>
+    <string name="user_password_error_message">Please enter password</string>
+    <string name="message_login_successful">Successfully Logged in</string>
+
+    <!-- Shared preferences key -->
+    <string name="shared_preferences">view_shared_prefs</string>
+    <string name="enter_name">Enter name</string>
+</resources>
